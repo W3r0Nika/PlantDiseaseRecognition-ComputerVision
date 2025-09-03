@@ -1,8 +1,8 @@
 # 🌱 Rozpoznawanie chorób roślin / Plant Disease Recognition
 
-## Autorzy
-- Patrycja Mazur  
-- Weronika Poniedziałek  
+## Autorzy  
+- Weronika Poniedziałek
+- Patrycja Mazur
 
 ## Opis projektu
 Projekt zrealizowany w ramach przedmiotu **"Automatyczna analiza obrazu”** na Politechnice Lubelskiej.  
@@ -51,6 +51,5 @@ Charakterystyka zbioru:
   - Dobór architektury ma kluczowe znaczenie przy dużych zbiorach danych.  
 
 ## Bibliografia
-- [Plant Diseases Dataset (Kaggle)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
 - [PyTorch CNN Tutorial (Datacamp)](https://www.datacamp.com/tutorial/pytorch-cnn-tutorial)  
 - [Transfer Learning w PyTorch](https://www.learnpytorch.io/06_pytorch_transfer_learning/)  
